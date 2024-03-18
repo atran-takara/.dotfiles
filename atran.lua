@@ -14,7 +14,12 @@ return {
     end
   },
 
-  { "rose-pine/neovim", name = "rose-pine" },
+  {
+      "ThePrimeagen/harpoon",
+      branch = "harpoon2",
+      dependencies = { "nvim-lua/plenary.nvim" }
+  },
+
   { "bluz71/vim-moonfly-colors", name = "moonfly", lazy = false, priority = 1000 },
 
   {
