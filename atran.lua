@@ -48,4 +48,6 @@ return {
       { "<leader>fF", Util.telescope("find_files", { cwd = false }), desc = "Find Files (cwd)" },
     },
   },
+
+  { "foke/noice.nvim", enabled = false }
 }
