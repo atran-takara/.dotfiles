@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = ./nvim
+[submodule "glazewm"]
+	path = glazewm
+	url = ./glazewm
