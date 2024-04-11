@@ -1,6 +1,6 @@
 [submodule "nvim"]
 	path = nvim
-	url = ./nvim
+	url = https://github.com/atran-takara/kickstart.nvim.git
 [submodule "glazewm"]
 	path = glazewm
-	url = ./glazewm
+	url = https://github.com/atran-takara/glazewm.git
