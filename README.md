@@ -1,2 +1,2 @@
-﻿# dotfiles
+﻿# .dotfiles
 dotfiles for my workflow.
